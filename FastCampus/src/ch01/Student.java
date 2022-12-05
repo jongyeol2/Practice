@@ -6,6 +6,4 @@ public class Student {
     int majorCode;
     String majorName;
     int grade;
-
-
 }

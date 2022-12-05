@@ -24,9 +24,6 @@ public class FunctionTest {
 
         }
             return sum;
-
-
-
     }
     public static void main(String[] args) {
 
