@@ -37,5 +37,6 @@ public class FunctionTest {
 
         total = calSum();
         System.out.println(total);
+
     }
 }

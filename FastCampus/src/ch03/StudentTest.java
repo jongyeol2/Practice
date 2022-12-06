@@ -10,6 +10,7 @@ public class StudentTest {
         studentLee.setStudentName("Lee");
         studentLee.address = "서울 강남구";
 
+
         studentLee.showStudentInfo();
 
         Student studentKim = new Student();
